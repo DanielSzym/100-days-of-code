@@ -6,11 +6,11 @@
 
 **Working folder**: Projects\01 FreeCodeCamp
 
-**Today's Progress**: 
+**Today's Progress**: Started with FreeCodeCamp, got back into HTML. First 40 small exercises
 
-**Thoughts:** 
+**Thoughts:** Up to now all known, but a good refresher. Excited about what is coming next!
 
-**Link to work:** 
+**Link to work:** /
 
 
 
