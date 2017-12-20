@@ -4,11 +4,16 @@
 
 ### Day 1: December 20, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Working folder**: Projects\01 FreeCodeCamp
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
 
 
 
