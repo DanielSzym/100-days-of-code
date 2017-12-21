@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 2: December 21, 2017
+
+**Working folder**: Projects\01 FreeCodeCamp
+
+**Today's Progress**: Contunied with a bit HTML
+
+**Thoughts:** Still known mostly up to now all known. Not quite an hour today.
+
+**Link to work:** /
+
 
 ### Day 1: December 20, 2017
 
