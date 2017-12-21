@@ -5,9 +5,9 @@
 
 **Working folder**: Projects\01 FreeCodeCamp
 
-**Today's Progress**: Contunied with a bit HTML
+**Today's Progress**: Contunied with HTML & CSS
 
-**Thoughts:** Still known mostly up to now all known. Not quite an hour today.
+**Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
 
 **Link to work:** /
 
