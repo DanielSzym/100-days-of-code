@@ -1,11 +1,21 @@
 # 100 Days Of Code - Log
 
 
-### Day 2: December 21, 2017
+### Day 3: December 22, 2017
 
 **Working folder**: Projects\01 FreeCodeCamp
 
 **Today's Progress**: Contunied with HTML & CSS
+
+**Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
+
+**Link to work:** /
+
+### Day 2: December 21, 2017
+
+**Working folder**: Projects\01 FreeCodeCamp
+
+**Today's Progress**: Continued with HTML & CSS
 
 **Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
 
