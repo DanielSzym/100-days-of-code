@@ -3,17 +3,17 @@
 
 ### Day 3: December 22, 2017
 
-**Working folder**: Projects\01 FreeCodeCamp
+**Working folder**: online
 
-**Today's Progress**: Contunied with HTML & CSS
+**Today's Progress**: Continued with Bootstrap (buttons, row-logic etc) and started jQuery
 
-**Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
+**Thoughts:** Bootstrap is really awesome. Did not know it before, I do like it
 
 **Link to work:** /
 
 ### Day 2: December 21, 2017
 
-**Working folder**: Projects\01 FreeCodeCamp
+**Working folder**: online
 
 **Today's Progress**: Continued with HTML & CSS
 
@@ -24,7 +24,7 @@
 
 ### Day 1: December 20, 2017
 
-**Working folder**: Projects\01 FreeCodeCamp
+**Working folder**: online
 
 **Today's Progress**: Started with FreeCodeCamp, got back into HTML. First 40 small exercises
 
