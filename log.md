@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 4: December 23, 2017
+
+**Working folder**: online
+
+**Today's Progress**: It is 01:06am. Used the whole day for christmas prep. Only did one symbolic exercise on freeCodeCamp. Back tomorrow!
+
 ### Day 3: December 22, 2017
 
 **Working folder**: online
