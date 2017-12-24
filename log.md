@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 5: December 24, 2017
+
+**Working folder**: online
+
+**Today's Progress**: Continued with Bootstrap and jQuery
+
+**Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
+
+**Link to work:** /
 
 ### Day 4: December 23, 2017
 
@@ -16,8 +25,6 @@
 
 **Thoughts:** Bootstrap is really awesome. Did not know it before, I do like it
 
-**Link to work:** /
-
 ### Day 2: December 21, 2017
 
 **Working folder**: online
@@ -26,9 +33,6 @@
 
 **Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
 
-**Link to work:** /
-
-
 ### Day 1: December 20, 2017
 
 **Working folder**: online
@@ -36,8 +40,6 @@
 **Today's Progress**: Started with FreeCodeCamp, got back into HTML. First 40 small exercises
 
 **Thoughts:** Up to now all known, but a good refresher. Excited about what is coming next!
-
-**Link to work:** /
 
 
 
