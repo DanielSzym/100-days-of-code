@@ -1,15 +1,23 @@
 # 100 Days Of Code - Log
 
 
+### Day 6: December 25, 2017
+
+**Working folder**: online
+
+**Today's Progress**: Finished theory and started with project in codePen. Finished the copy, but still want to create a new page about a personality of choice.
+
+**Thoughts:** Learning by doing - always prooves to be true
+
+**Link to work:** https://codepen.io/Dan312/pen/MrbzWQ
+
 ### Day 5: December 24, 2017
 
 **Working folder**: online
 
 **Today's Progress**: Continued with Bootstrap and jQuery
 
-**Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
-
-**Link to work:** /
+**Thoughts:** Unfortunately only little progress due to christmas! I really want to start to take more time, because stuff is awesome!
 
 ### Day 4: December 23, 2017
 
