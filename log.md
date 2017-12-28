@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 9: December 28, 2017
+
+**Working folder**: online
+
+**Today's Progress**: Finally back! Started the personal portfolio page
+
+**Thoughts:** Learning by doing - always prooves to be true
+
+**Link to work:** https://codepen.io/Dan312/pen/MrbzWQ
+
+### Day 8: December 27, 2017
+
+**Today's Progress**: No progress due to christmas (no access to computer). Counter of additional days: +2
+
+### Day 7: December 26, 2017
+
+**Today's Progress**: No progress due to christmas (no access to computer). Counter of additional days: +1
+
 ### Day 6: December 25, 2017
 
 **Working folder**: online
