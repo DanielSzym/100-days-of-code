@@ -1,8 +1,31 @@
 # 100 Days Of Code - Log
 
 
+### Day 2: January 07, 2018
 
-### Day 9: December 28, 2017
+**Working folder**: online
+
+**Today's Progress**: personal portfolio page: Added the portfolio page and finished this challenge. So: Challenge 2 - Check! Also started with JavaScript, introduction to variables and strings
+
+**Thoughts**: Nice to have the portfolio page finished, not 100% happy with the design though. Anyways, I like to move on now!
+
+**Link to work**: https://codepen.io/Dan312/pen/LeWKKK
+
+
+### Day 1: January 06, 2018
+
+**Working folder**: online
+
+**Today's Progress**: Here we go, 100 consectutive days of code! Continued with the personal portfolio page: Added the social media buttons to the Home section
+
+**Link to work**: https://codepen.io/Dan312/pen/LeWKKK
+
+
+-----
+These following days were a kind of preparation to the 100 days. Since the access to a PC was limited during christmas and new year, I fully started in 2018!
+-----
+
+### Day 0.9: December 28, 2017
 
 **Working folder**: online
 
@@ -10,17 +33,17 @@
 
 **Thoughts:** Learning by doing - always prooves to be true
 
-**Link to work:** https://codepen.io/Dan312/pen/MrbzWQ
+**Link to work:** https://codepen.io/Dan312/pen/LeWKKK
 
-### Day 8: December 27, 2017
+### Day 0.8: December 27, 2017
 
 **Today's Progress**: No progress due to christmas (no access to computer). Counter of additional days: +2
 
-### Day 7: December 26, 2017
+### Day 0.7: December 26, 2017
 
 **Today's Progress**: No progress due to christmas (no access to computer). Counter of additional days: +1
 
-### Day 6: December 25, 2017
+### Day 0.6: December 25, 2017
 
 **Working folder**: online
 
@@ -30,7 +53,7 @@
 
 **Link to work:** https://codepen.io/Dan312/pen/MrbzWQ
 
-### Day 5: December 24, 2017
+### Day 0.5: December 24, 2017
 
 **Working folder**: online
 
@@ -38,13 +61,13 @@
 
 **Thoughts:** Unfortunately only little progress due to christmas! I really want to start to take more time, because stuff is awesome!
 
-### Day 4: December 23, 2017
+### Day 0.4: December 23, 2017
 
 **Working folder**: online
 
 **Today's Progress**: It is 01:06am. Used the whole day for christmas prep. Only did one symbolic exercise on freeCodeCamp. Back tomorrow!
 
-### Day 3: December 22, 2017
+### Day 0.3: December 22, 2017
 
 **Working folder**: online
 
@@ -52,7 +75,7 @@
 
 **Thoughts:** Bootstrap is really awesome. Did not know it before, I do like it
 
-### Day 2: December 21, 2017
+### Day 0.2: December 21, 2017
 
 **Working folder**: online
 
@@ -60,7 +83,7 @@
 
 **Thoughts:** CSS was mostly known, but Bootstrap was new! Really liked it.
 
-### Day 1: December 20, 2017
+### Day 0.1: December 20, 2017
 
 **Working folder**: online
 
