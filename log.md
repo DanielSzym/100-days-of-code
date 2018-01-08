@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 3: January 08, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript, strings and arrays
+
+**Thoughts**: 
+
+
 ### Day 2: January 07, 2018
 
 **Working folder**: online
