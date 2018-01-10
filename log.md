@@ -3,6 +3,12 @@
 
 
 
+### Day 5: January 10, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript, bool, loops (if & switch-statements)
+
 
 ### Day 4: January 09, 2018
 
