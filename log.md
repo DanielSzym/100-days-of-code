@@ -2,19 +2,25 @@
 
 
 
+### Day 6: January 11, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript: objects
+
 
 ### Day 5: January 10, 2018
 
 **Working folder**: online freeCodeCamp
 
-**Today's Progress**: Continued with JavaScript, bool, loops (if & switch-statements)
+**Today's Progress**: Continued with JavaScript: bool, loops (if & switch-statements)
 
 
 ### Day 4: January 09, 2018
 
 **Working folder**: online freeCodeCamp
 
-**Today's Progress**: Continued with JavaScript, arrays, functions, bool
+**Today's Progress**: Continued with JavaScript: arrays, functions, bool
 
 **Thoughts**: Coding after a long day of work ... uff. Happy to have it done.
 
@@ -23,7 +29,7 @@
 
 **Working folder**: online freeCodeCamp
 
-**Today's Progress**: Continued with JavaScript, strings and arrays
+**Today's Progress**: Continued with JavaScript: strings and arrays
 
 **Thoughts**: 
 
