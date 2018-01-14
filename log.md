@@ -2,6 +2,23 @@
 
 
 
+
+### Day 8: January 13, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript: objects and indtroduction to OOP
+
+
+### Day 7: January 12, 2018
+
+**Working folder**:
+
+**Today's Progress**: Helped with some work on the new basketball's hompage (HTML & CSS)
+
+**Link to work**: http://tv1846-oppenheim.de/Basketball/Prototype2/bbhome.html#home
+
+
 ### Day 6: January 11, 2018
 
 **Working folder**: online freeCodeCamp
