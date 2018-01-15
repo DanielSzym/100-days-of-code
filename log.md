@@ -2,6 +2,12 @@
 
 
 
+### Day 9: January 14, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript: Learned some awesome new functions to manipulate arrays, like map or reduce (note: just the stuff I had this semester in the course Large Scale Data Management)
+
 
 ### Day 8: January 13, 2018
 
