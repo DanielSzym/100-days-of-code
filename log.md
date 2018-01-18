@@ -2,6 +2,13 @@
 
 
 
+### Day 10: January 15, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript: Started the challenges. Challenge 3 done!
+
+
 ### Day 9: January 14, 2018
 
 **Working folder**: online freeCodeCamp
