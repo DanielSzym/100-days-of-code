@@ -2,6 +2,16 @@
 
 
 
+
+### Day 11: February 06, 2018
+
+**Thoughts**: Good to be back after a pause (Vacation & exam)
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript challenges.
+
+
 ### Day 10: January 15, 2018
 
 **Working folder**: online freeCodeCamp
