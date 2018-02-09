@@ -2,6 +2,19 @@
 
 
 
+### Day 13: February 08, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript challenges. Some are really tricky, but I like it!
+
+
+### Day 12: February 07, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Continued with JavaScript challenges. Managed to complete three.
+
 
 ### Day 11: February 06, 2018
 
