@@ -2,6 +2,13 @@
 
 
 
+### Day 14: February 09, 2018
+
+**Working folder**: online freeCodeCamp
+
+**Today's Progress**: Finally finished with JavaScript challenges. Moving on to jQuery
+
+
 ### Day 13: February 08, 2018
 
 **Working folder**: online freeCodeCamp
