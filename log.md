@@ -2,11 +2,33 @@
 
 
 
+
+
+
+
+### Day 16: February 11, 2018
+
+**Working folder**: local on disk
+
+**Today's Progress**: Polishing up the copy script and tried out some stuff. Want to implement some more security mechanisms. Started with a "copy not possible if drive is full." Going to continue with automatic deletion of oldest backup when drive is full.
+
+
+### Day 15: February 10, 2018
+
+**Working folder**: local on disk
+
+**Today's Progress**: Started with an introduction to VBA, switched to PowerShell. First copy script exists
+
+**Thoughts**: Wanted to get some insight into VBA programming to create a few scripts. Especially doing some backup-tasks is what I plan to do with it.
+
+***Link to tutorial**: https://technet.microsoft.com/en-us/scriptcenter/dd940112.aspx
+
+
 ### Day 14: February 09, 2018
 
 **Working folder**: online freeCodeCamp
 
-**Today's Progress**: Finally finished with JavaScript challenges. Moving on to jQuery
+**Today's Progress**: Finally finished with JavaScript challenges. Moving on to jQuery. Today ended with a challenge for the next time to code a quote generator
 
 
 ### Day 13: February 08, 2018
