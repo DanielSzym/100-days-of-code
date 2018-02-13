@@ -4,6 +4,18 @@
 
 
 
+### Day 18: February 13, 2018
+
+**Working folder**: local on disk, backup script
+
+**Today's Progress**: Worked on the backup script again. Since it is possible to delelte one folder, I decided to delete old backups (subfolders) as long as there is not enough space for another backup copy. It took quite a while to get some security mechanisms working otherwise the disk would probably eat itself up by deleting all folders (Didn't try that one out though. Not too clever.). Next step is to get it working with a new hard drive built into the PC -> Friday
+
+
+### Day 17: February 12, 2018
+
+**Working folder**: local on disk, backup script
+
+**Today's Progress**: Worked on the backup script again. Checked out how to delete the oldes subfolder in a folder. This is now working (puts into bin)
 
 
 ### Day 16: February 11, 2018
