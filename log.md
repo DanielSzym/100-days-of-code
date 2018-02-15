@@ -4,6 +4,20 @@
 
 
 
+### Day 20: February 15, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Got the JS started. Atm I have an array with quotes, on page load it displays the first one. Two buttons (next and previous) to iterate through quotes. Next: Add author and of course some API call!
+
+
+### Day 19: February 14, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Started with the Random Quote Machine. Tried out some stuff with html css to get a neat design. No JS coded yet.
+
+
 ### Day 18: February 13, 2018
 
 **Working folder**: local on disk, backup script
@@ -20,7 +34,7 @@
 
 ### Day 16: February 11, 2018
 
-**Working folder**: local on disk
+**Working folder**: local on disk, backup script
 
 **Today's Progress**: Polishing up the copy script and tried out some stuff. Want to implement some more security mechanisms. Started with a "copy not possible if drive is full." Going to continue with automatic deletion of oldest backup when drive is full.
 
