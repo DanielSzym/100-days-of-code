@@ -4,6 +4,16 @@
 
 
 
+
+
+
+### Day 21: February 16, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Worked on the buttons design. Not happy yet. Design only with css and LESS.
+
+
 ### Day 20: February 15, 2018
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
