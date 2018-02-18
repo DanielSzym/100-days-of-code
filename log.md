@@ -5,6 +5,18 @@
 
 
 
+### Day 23: February 18, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: worked on the API to get some nice quotes. Not working yet, unfortunately I had to stop. Excited to continue tomorrow!
+
+
+### Day 22: February 17, 2018
+
+**Working folder**: local (backup-script) & online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Local: completed the backup script. Now checking it out. Online: Finished the buttons.
 
 
 ### Day 21: February 16, 2018
