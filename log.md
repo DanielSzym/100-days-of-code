@@ -5,6 +5,32 @@
 
 
 
+
+
+### Day 27: February 22, 2018
+
+**Today's Progress**: No progress today, sick...
+
+
+### Day 26: February 21, 2018
+
+**Today's Progress**: No progress today, sick...
+
+
+### Day 25: February 20, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: API: Started a new pen as a playground to only get the API working. When I insert the link in a browser, I can see the object that is sent. Somehow, I can't get it working using json and ajax. Have to peek into the old exercised on FreeCodeCamp tomorrow.
+
+
+### Day 24: February 19, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Continued working on the API. Found this guy: https://quotesondesign.com/api-v4-0/. Tried to get the API working. Somehow it didn't.
+
+
 ### Day 23: February 18, 2018
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
