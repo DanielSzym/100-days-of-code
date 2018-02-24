@@ -8,7 +8,7 @@
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
 
-**Today's Progress**: API: 
+**Today's Progress**: API: I don't know why, but some getJSON won't work. Now started to try it out in a newly created project on GitHub with html, css and js files. Still not working after this one hour, which seemed to be like only a few minutes (lots of research).
 
 
 ### Day 28: February 23, 2018
