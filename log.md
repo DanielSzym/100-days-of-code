@@ -4,7 +4,16 @@
 
 
 
+### Day 29: February 24, 2018
 
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: API: 
+
+
+### Day 28: February 23, 2018
+
+**Today's Progress**: No progress today, sick...
 
 
 ### Day 27: February 22, 2018
