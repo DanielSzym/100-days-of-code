@@ -4,6 +4,48 @@
 
 
 
+### Day 35: March 02, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: 
+
+
+### Day 34: March 01, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Added the author. At the moment I have two arrays where quotes and authors are saved (I also have a back button). Neater solution would be to have an object. Maybe I will change it some day. But for now, I want to get this challenge done. Next step: Share buttons!
+
+
+### Day 33: February 28, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Implemented the API call to the codepen pen. It works hell yeah!
+
+
+### Day 32: February 27, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Ok. Wow. Found an API (api.forismatic.com/) where I receive an answer to my call. Next step: Implement it in the quote machine. Atm it is only on my playground pen.
+
+
+### Day 31: February 26, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Okay, know what? I'll use another source. Got some different sources and will try those out tomorrow. Did a lot of reading, only a bit coding.
+
+
+### Day 30: February 25, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Still working on the damn API. Jesus, gotta get it working!
+
+
 ### Day 29: February 24, 2018
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
