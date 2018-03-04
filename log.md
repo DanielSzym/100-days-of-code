@@ -4,11 +4,33 @@
 
 
 
-### Day 35: March 02, 2018
+
+### Day 38: March 05, 2018
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
 
 **Today's Progress**: 
+
+
+### Day 37: March 04, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: 
+
+
+### Day 36: March 03, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Got the twitter API working, hell yeah! Sharing a tweet now possible: Check!
+
+
+### Day 35: March 02, 2018
+
+**Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
+
+**Today's Progress**: Worked on the dsign; the buttons for "next quote" and "last quote" were moving depending on the lines of the quote. Now they only move if thge quote has 4 or more lines (rarely the case).
 
 
 ### Day 34: March 01, 2018
