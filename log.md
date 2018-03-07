@@ -3,20 +3,25 @@
 
 
 
+### Day 39: March 06, 2018
+
+**Working folder**: some online Java IDE
+
+**Today's Progress**: Refreshed some algorithm knowledge and implemented them in Java: Selection Sort, Insertion Sort, Bubble Sort
 
 
 ### Day 38: March 05, 2018
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the design of the Share-button. Still a headache to get all elements to be where they are supposed to be. Generyla spoken, The design of the quote generator definitely is improvable, but for now, I want to close this challenge. Maybe I'll come back some day.
 
 
 ### Day 37: March 04, 2018
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
 
-**Today's Progress**: 
+**Today's Progress**: Did some minor changes to the API call of Twitter. Now it seems to be working properly (e.g. problems encountered when no author was empty). Started with some redesign.
 
 
 ### Day 36: March 03, 2018
