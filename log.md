@@ -3,6 +3,59 @@
 
 
 
+
+
+
+
+### Day 46: March 13, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/ZvBmEx (Playground pen)
+
+**Today's Progress**: So displaying the temperature now works. Sometimes the API call results in dofferent lon and lat though. I have absolutely no clue why. So sometimes I just get 28°C display of lon = 139 and lat = 35. Some default setting maybe. Or I am only allowed 1 call every x seconds. I don't know. Most of the times it works though. Also started with the pictures displaying the weather. Not too much progress there though.
+
+
+### Day 45: March 12, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/ZvBmEx (Playground pen)
+
+**Today's Progress**: Alright, let's get it started! °C to °F now works! Started with the API that was provided by freeCodeCamp (other API's mostly are commercial).
+
+
+### Day 44: March 11, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/ZvBmEx (Playground pen)
+
+**Today's Progress**: Changed to the Playground pen. I found out it was about the setting of codepen. Just wow. Had to delete the jQuery library and add it again. This took me like nearly 2 hours of research.
+
+
+### Day 43: March 10, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/dmPEPY (Weather App)
+
+**Today's Progress**: The switching between °C and °F does not work. I don't know why. I want to do it using jQuery to get familiar with it (today I read about if jQuery is thought to be dead. Looking at the statistics it definitely isn't even if it is not used that often for new projects anymore)
+
+
+### Day 42: March 09, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/dmPEPY(Weather App)
+
+**Today's Progress**: Locating the user via webbrowser works. I now have the longitude and the latitude. Tried some code for error handling as well today. Next steps: check the weather API and switch °C to °F.
+
+
+### Day 41: March 08, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/dmPEPY(Weather App)
+
+**Today's Progress**: Continued with the design. Started to get into location from HTML.
+
+
+### Day 40: March 07, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/dmPEPY(Weather App)
+
+**Today's Progress**: Started with the new challenge: An online weather app, that shall display a) the current temperature in celsius or fahrenheit (depending on user's wish) and b) a small image that displays the current weather (cloudy, sunny). Strted with some layout mostly using bootstrap
+
+
 ### Day 39: March 06, 2018
 
 **Working folder**: some online Java IDE
@@ -14,7 +67,7 @@
 
 **Working folder**: online @codepen https://codepen.io/Dan312/pen/oEGBLa
 
-**Today's Progress**: Worked on the design of the Share-button. Still a headache to get all elements to be where they are supposed to be. Generyla spoken, The design of the quote generator definitely is improvable, but for now, I want to close this challenge. Maybe I'll come back some day.
+**Today's Progress**: Worked on the design of the Share-button. Still a headache to get all elements to be where they are supposed to be. Generyl spoken, The design of the quote generator definitely is improvable, but for now, I want to close this challenge. Maybe I'll come back some day.
 
 
 ### Day 37: March 04, 2018
