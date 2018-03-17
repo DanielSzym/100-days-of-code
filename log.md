@@ -5,6 +5,23 @@
 
 
 
+### Day 49: March 16, 2018
+
+**Today's Progress**: On the road the whole day, so no coding
+
+
+### Day 48: March 15, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/ZvBmEx (Playground pen)
+
+**Today's Progress**: No where the temperature is displayed correctly it was quite easy to implement the icon. Also got rid of some code and added some comments to make it easier to read. Next step is implementing it into the design I made (now quite a while ago).
+
+
+### Day 47: March 14, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/ZvBmEx (Playground pen)
+
+**Today's Progress**: Alright, figured out why exactly the API call sometimes is wrong. If fetching the lon and lat takes too long, the API is called with the "standard link" that does not contain the lon and lat of the user. Fixed this by changing the order of the code. Also set cache to false, if the API call is saved somehow.
 
 
 ### Day 46: March 13, 2018
