@@ -5,6 +5,42 @@
 
 
 
+
+### Day 54: March 21, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/xWgBKr?editors=1111 (Wikipedia API  pen)
+
+**Today's Progress**: Found a nice form with the params action=query&titles=Dallas&prop=extracts&format=json&exintro=true&exsentences=3. I like the exsentences; with this, I do not have to do any computations client-sided (i.e. cutting of word). Also network bandwidth is saved. Now I have to work on how to get the extract. Because the format is data.query.pages."uniqueid".extract
+
+
+### Day 53: March 20, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/xWgBKr?editors=1111 (Wikipedia API  pen)
+
+**Today's Progress**: Mostly experimented with the params and the wikipedia API. Did not find a suitable way to extract the information. Not sure how to display it. First x sentences? First section? First paragraph?
+
+
+### Day 52: March 19, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/xWgBKr?editors=1111 (Wikipedia API pen)
+
+**Today's Progress**: Worked on the API call with a "standard" link from the API documentation. Only changed it a bit. Think I have to reconsider the parameters.
+
+
+### Day 51: March 18, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/xWgBKr?editors=1111 (Wikipedia API pen)
+
+**Today's Progress**: Alright, started the Wikipedia API challenge. Today mostly reading and getting into the idea of wikipedias api, the call, the parameters. Added the random article link. No design, functionality first.
+
+
+### Day 50: March 17, 2018
+
+**Working folder**: https://codepen.io/Dan312/pen/ZvBmEx (Playground pen, no WeatherApp)
+
+**Today's Progress**: Now decided to just rework in the design in the current Playground pen. Renamed it to WeatherApp. Design and Layout now is as I wanted it to be. Also made some minor changes to the lat and lon variables (rounded them without decimal places). Now the weather is shown in the current location and not at some random point.
+
+
 ### Day 49: March 16, 2018
 
 **Today's Progress**: On the road the whole day, so no coding
